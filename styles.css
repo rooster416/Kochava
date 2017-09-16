@@ -1,0 +1,52 @@
+
+.form {
+    border: solid 1px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 8px #444;
+    padding: 10px;
+}
+
+.form-entity {
+    margin-top: 10px;
+}
+
+.form-label {
+    float: left;
+    margin-right: 10px;
+    text-align: right;
+}
+
+.left {
+    float: left;
+}
+
+.right-10 {
+    margin-right: 10px;
+}
+
+.pad-top-3 {
+    padding-top: 3px;
+}
+
+.clear {
+    clear: both;
+}
+
+.no-display {
+    display: none;
+}
+
+.error {
+    width: 1000px !important;
+    margin-bottom: 10px;
+}
+
+#error {
+    color: #ffffff;
+    border: #880000 solid 1px;
+    background-color: #aa0000;
+    border-radius: 5px;
+    padding: 10px;
+    width: 1000px !important;
+    display: none;
+}
