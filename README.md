@@ -1,2 +1,0 @@
-# Kochava
-Test project
